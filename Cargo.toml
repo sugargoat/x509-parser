@@ -39,7 +39,7 @@ chrono = { version="0.4", default-features=false, features=["std"] }
 data-encoding = "2.2.1"
 lazy_static = "1.4"
 nom = "5.0"
-rusticata-macros = "2.0.2"
+rusticata-macros = "3.0.1"
 num-bigint = "0.3"
 ring = { version="0.16", optional=true }
 rustversion = "1.0"
